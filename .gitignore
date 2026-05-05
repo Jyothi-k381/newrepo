@@ -1,5 +1,5 @@
 .settings
-allure-result/
+allure-results/
 logs/
 target/
 test-output/
